@@ -1,0 +1,29 @@
+site_name: JC's Guide
+theme:
+  name: material
+  palette:
+    scheme: slate
+  features:
+    - navigation.sections
+nav:
+  - Introduction: index.md
+  - Poppy Playtime:
+    - Introduction: poppy-playtime/intro/index.md
+    - Chapter 1: poppy-playtime/ch1/index.md
+    - Chapter 2: poppy-playtime/ch2/index.md
+    - Chapter 3: poppy-playtime/ch3/index.md
+    - Chapter 4: poppy-playtime/ch4/index.md
+  # - Blox Fruits:
+  #   - Firstsea:
+  #     - Overview: blox-fruit/firstsea/index.md
+  #     - Swords: blox-fruit/firstsea/swords.md
+  #     - Guns: blox-fruit/firstsea/guns.md
+  #   - Secondsea:
+  #     - Overview: blox-fruit/secondsea/index.md
+  #     - Swords: blox-fruit/secondsea/swords.md
+  #     - Guns: blox-fruit/secondsea/guns.md
+  #   - Thirdsea:
+  #     - Overview: blox-fruit/thirdsea/index.md
+  #     - Swords: blox-fruit/thirdsea/swords.md
+  #     - Guns: blox-fruit/thirdsea/guns.md
+  - About the Page: about.md

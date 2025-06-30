@@ -13,9 +13,3 @@ This chapter has an average playtime of about **55 minutes** if you focus only o
 <p style="text-align: center;">
   <a href="../ch1/"><strong><em>100% Complete walk through</em></strong></a>
 </p>
-
-## Summary
-
-![Letter](img/letter.png)
-
-The chapter begins with a former employee of Playtime Co., receiving an unexpected letter along with a VHS tape. The tape appears to be a tampered version of an old Poppy commercial. After reading the letter and watching the tape, curiosity and concern drive the former employee to return to the abandoned factory, hoping to uncover the truth behind the disappearance of the staff.

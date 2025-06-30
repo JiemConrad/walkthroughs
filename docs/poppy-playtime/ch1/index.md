@@ -208,11 +208,11 @@ After connecting the wire to the node, walk to your left, then turn right. You�
 
 Now that you’ve successfully powered the outlet, the **door will open**, and the conveyor belt will force you forward into the **Make-A-Friend factory**.
 
-## Make A Friend Factory
+## Powering The Make A Friend Factory
 
 ![Make-A-Friend](img/friend-factory.png)
 
-Your goal in this area is to build a toy using the Make-A-Friend machine. However, the **factory is currently without power**, and you’ll need to activate it before the machine can be used.
+Your goal in this area is to build a toy using the Make-A-Friend machine. However, the **factory is currently out of power**, and you’ll need to activate it before the machine can be used.
 
 ![Climb-the-stairs](img/climb-strairs.png)
 
@@ -220,21 +220,36 @@ Look around the factory and you will spot a stairs at the back of the room, clim
 
 upon reaching the top, you will see a pink VHS player in the corner and TV above it, you'll need it later on.
 
-![Pull-The-Catwalk](img/pulling-catwalk.png)
+![Pull-The-Retractable-Path](img/pulling-catwalk.png)
 
-On the catwalk, you’ll find a **gap in the floor**. To cross it, pull the orange handlebar to **slide out the catwalk extension** and cover the hole.
+On the catwalk, you’ll find a **gap in the floor**. To cross it, pull the orange handlebar to **slide out the retractable path** and cover the hole.
+
+![Pink-VHS-Tape](img/pink-vhs-tape.png)
+
+If you walk across the catwalk you just extended and look to your right, you’ll see a pink VHS tape. Pick it up and insert it into the pink VHS player you saw earlier.
+
+The pink VHS tape is about the interview of Stella, the head of Playcare.
 
 ![Power-Source](img/power-in-catwalk.png)
 
-After crossing the catwalk, you’ll see a power source. Grab it using either hand of your GrabPack. 
+Back on crossing the catwalk, you’ll see a power source. Grab it using either hand of your GrabPack.
 
-![2nd-extention](img/second-catwalk-extention.png)
+![2nd-Retractable-Path](img/second-catwalk-extension.png)
 
-As you continue walking, you’ll come across another catwalk extension on you right—grab and pull it to create a short path that leads to the power nodes.
+As you continue walking, you’ll come across another retractable path on your right—grab and pull it to create a short path that leads to the power nodes.
 
-![First-Node-In-Factory](img/first-node-factory.png)
+![Pulling-Back-Retractable-Path](img/pull-back-catwalk.png)
 
-Cross the catwalk extention and connect the wire to the node in the left side
+After crossing the retractable path, follow the walkway to your right and move to the left side of the outlet. Then, use your other GrabPack hand to pull back the same retractable path you activated earlier.
 
-![Second-Node-In-Factory](img/second-nodes-factory.png)
+Go back to where the power nodes are, but **don’t use the retractable path**. The wire will be blocked by the catwalk supports, which will prevent you from reaching the power outlet later.
 
+![Connect-The-Two-Power-Nodes](img/connect-two-powenodes.png)
+
+Make the wire touch each power node, then use the retractable path to reach the power outlet at a shorter distance. Use your other hand to grab the power outlet, and **this will activate the Make-A-Friend factory machine**.
+
+![Making-A-Friend](img/making-a-toy.png)
+
+With the power back on, it’s **finally time to build a toy**—your very own friend.
+
+You can now jump down the where the Make A Friend machine. **You won't take any damage here**. Go the the terminal in the middle that has a table ** MAKE A FRIEND**. press the red button to start the creation of the toy.

@@ -183,26 +183,26 @@ The steel door won’t fully open, so you’ll need to crouch to enter. To crouc
 
 ![Coveyor-Belt-Door](img/coveyor-belt-door.png)
 
-Once you slide down, you can’t go back—you’ll need to power the door to open it.
+Once you slide down, you can’t go back—you’ll need to **power the door** to open it.
 
-Head to the first right corner in the vent and follow the path until you reach the end.
+**Head to the first right corner** in the vent and follow the path until you reach the end.
 
 ![Turn-Left](img/turn-left-vent.png)
 
-At the end of the vent you previously went through, turn left and you’ll see another path straight ahead, right in the middle. Walk through it—you’ll find yourself in the center of the walkway.
+When you reach the end of the vent, turn left. Directly ahead, you’ll notice a **path running through the middle**—follow it, and you’ll find yourself in the center of the walkway.
 
 ![Power-Outlet](img/power-outlet.png)
 
-In front of you is an **outlet that needs to be powered**. To your right, you’ll spot a **power source**, and to your left, a **node**—just like the ones you encountered in the Power Room back in the lobby. Use either hand of your GrabPack to grab the power source.
+In front of you is an **outlet that needs to be powered**. To your right, you’ll spot a **power source**, and to your left, a **node**—just like the ones you encountered in the Power Room back in the lobby. Use either hand of your GrabPack to **grab the power source**.
 
 ![Cennect-To-Node](img/connect-to-node.png)
 
-Stretch the wire across to make contact with the node. This will transfer energy and activate the mechanism ahead.
+Stretch the wire across to **make contact with the node**. **This will transfer power and activate the mechanism ahead**.
 
 
 ![Power-The-Vent-Outlet](img/powering-vent-outlet.png)
 
-After connecting the wire to the node, walk to your left, then turn right. You’ll see the outlet you spotted earlier in the middle of the walkway. Use your other hand to grab the outlet—this will complete the circuit and power the door open.
+After connecting the wire to the node, **walk to your left, then turn right**. You’ll see the **outlet you spotted earlier** in the middle of the walkway. Use your other hand to grab the outlet—this will complete the circuit and **power the door open**.
 
 ![Vent-Door-Open](img/vent-door-open.png)
 
@@ -212,13 +212,13 @@ Now that you’ve successfully powered the outlet, the **door will open**, and t
 
 ![Make-A-Friend](img/friend-factory.png)
 
-Your goal in this area is to build a toy using the Make-A-Friend machine. However, the **factory is currently out of power**, and you’ll need to activate it before the machine can be used.
+At the center of the factory, you’ll find a **console** with a red button marked **Needs Power**. Your objective in this area is to **build a toy** using the Make-A-Friend machine. However, the **factory is currently without power, and you’ll need to restore it before the machine can be activated**.
 
 ![Climb-the-stairs](img/climb-strairs.png)
 
-Look around the factory and you will spot a stairs at the back of the room, climb it up to reach the catwalk above the factory.
+Look around the factory and you will spot a **stairs at the back of the room**, climb it up to reach the catwalk above the factory.
 
-upon reaching the top, you will see a pink VHS player in the corner and TV above it, you'll need it later on.
+upon reaching the top, you will see a **pink VHS player** in the corner and TV above it, you'll need it later on.
 
 ![Pull-The-Retractable-Path](img/pulling-catwalk.png)
 
@@ -226,7 +226,7 @@ On the catwalk, you’ll find a **gap in the floor**. To cross it, pull the oran
 
 ![Pink-VHS-Tape](img/pink-vhs-tape.png)
 
-If you walk across the catwalk you just extended and look to your right, you’ll see a pink VHS tape. Pick it up and insert it into the pink VHS player you saw earlier.
+If you **walk across the retractable path and look to your right**, you’ll see a **pink VHS tape**. Pick it up and insert it into the pink VHS player you saw earlier.
 
 The pink VHS tape is about the interview of Stella, the head of Playcare.
 
@@ -236,11 +236,11 @@ Back on crossing the catwalk, you’ll see a power source. Grab it using either 
 
 ![2nd-Retractable-Path](img/second-catwalk-extension.png)
 
-As you continue walking, you’ll come across another retractable path on your right—grab and pull it to create a short path that leads to the power nodes.
+As you continue walking, you’ll come across **another retractable path on your right—grab** and pull it to create a short path that leads to the power nodes.
 
 ![Pulling-Back-Retractable-Path](img/pull-back-catwalk.png)
 
-After crossing the retractable path, follow the walkway to your right and move to the left side of the outlet. Then, use your other GrabPack hand to pull back the same retractable path you activated earlier.
+After crossing the retractable path, follow **the walkway to your right** and move to the left side of the outlet. Then, use your other GrabPack hand to **pull back the same retractable path** you activated earlier.
 
 Go back to where the power nodes are, but **don’t use the retractable path**. The wire will be blocked by the catwalk supports, which will prevent you from reaching the power outlet later.
 
@@ -250,6 +250,27 @@ Make the wire touch each power node, then use the retractable path to reach the 
 
 ![Making-A-Friend](img/making-a-toy.png)
 
-With the power back on, it’s **finally time to build a toy**—your very own friend.
+With the power back on, it’s finally time to **build a toy—your very own friend**.
 
-You can now jump down the where the Make A Friend machine. **You won't take any damage here**. Go the the terminal in the middle that has a table ** MAKE A FRIEND**. press the red button to start the creation of the toy.
+Jump down to the area where the Make-A-Friend machine is located—don’t worry, **you won’t take any damage**. Head over to the central console, which should now display **Power On**, and **press the red button** to begin the toy creation process.
+
+![Pulling-The-Lever](img/pulling-the-lever.png)
+
+Once the machine is activated, look to your left and focus on the **three capsules**. **Pull the lever** on each one to release the toy parts.
+
+![The-Toy](img/the-toy.png)
+
+After pulling all the lever, head to the other side of the machine and **wait as it assembles your new toy friend**.
+
+![Friend-Acquired](img/friend-acquired.png)
+
+Once the toy reaches the end of the conveyor belt, pick it up. Head to the back of the area—just to the left of the stairs you climbed earlier—and you’ll find a door with a sign that reads **Nobody Leaves Without a Toy.** On the right side of the door, there’s a toy scanner. Place your toy on it and wait for the door to open.
+
+## Huggy Wuggy Chase
+
+Now that you have your toy, prepare yourself—someone, or perhaps something, in the factory wants to take it from you. Don’t let it catch you.
+
+![Chase-Start](img/huggy-wuggy-chase.png)
+
+
+

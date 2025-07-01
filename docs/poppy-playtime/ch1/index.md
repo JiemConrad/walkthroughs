@@ -181,7 +181,7 @@ The steel door won’t fully open, so you’ll need to crouch to enter. To crouc
 
 ## Open the Conveyor Belt's Door
 
-![Coveyor-Belt-Door](img/coveyor-belt-door.png)
+![Conveyor-Belt-Door](img/conveyor-belt-door.png)
 
 Once you slide down, you can’t go back—you’ll need to **power the door** to open it.
 
@@ -268,9 +268,30 @@ Once the toy reaches the end of the conveyor belt, pick it up. Head to the back 
 
 ## Huggy Wuggy Chase
 
-Now that you have your toy, prepare yourself—someone, or perhaps something, in the factory wants to take it from you. Don’t let it catch you.
+Now that you have your toy, prepare yourself—someone, or perhaps something, in the factory is coming for it. Don’t let it catch you.
+
+![Back-Door-Open](img/back-door-open.png)
+
+With the door now open, walk forward until you reach the end of the corridor.
 
 ![Chase-Start](img/huggy-wuggy-chase.png)
 
+But before you can reach the end of the corridor, Huggy Wuggy suddenly emerges, blocking your path. It looks like he just wants to give you a big hug—though something tells me that’s a really bad idea.
 
+![Machine-Vent](img/factory-machine-vent.png)
 
+Huggy Wuggy may be slow, but you still need to get out of here—fast. **Head back to where you picked up your toy on the conveyor belt**. You’ll notice that the once-closed door is now open. **Don’t hesitate—bolt through it**.
+
+![Huggy-In-Vent](img/huggy-in-vent.png)
+
+While running through the vent, you’ll eventually spot Huggy Wuggy directly ahead. **Stay calm—this is a critical moment**. **Immediately take the path to your left and follow the path**, but **be cautious**—**if you run straight ahead, Huggy Wuggy will intercept you.** keep an eye out for the **first right turn**. Take it quickly and continue through that path to avoid getting caught.
+
+![The-No-Graffiti](img/no-graffiti-on-left.png)
+
+As you follow the path, you’ll come across a conveyor without a belt. Don’t attempt to climb it—it leads nowhere. Instead, immediately turn left to stay on track.
+
+![Hole-In-The-Vent](img/hole-in-the-vent.png)
+
+following the path, you'll encounter a hole, jump into it and continue runnign forward.
+
+![alt text](image.png)

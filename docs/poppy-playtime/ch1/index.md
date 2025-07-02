@@ -288,10 +288,17 @@ While running through the vent, you’ll eventually spot Huggy Wuggy directly ah
 
 ![The-No-Graffiti](img/no-graffiti-on-left.png)
 
-As you follow the path, you’ll come across a conveyor without a belt. Don’t attempt to climb it—it leads nowhere. Instead, immediately turn left to stay on track.
+As you follow the path, you’ll come across a conveyor without a belt. **Don’t attempt to climb it**—it leads nowhere. Instead, **immediately turn left to stay on track**.
 
 ![Hole-In-The-Vent](img/hole-in-the-vent.png)
 
-following the path, you'll encounter a hole, jump into it and continue runnign forward.
+Continue along the path until you come across a **hole—jump down and keep running forward without looking back**.
 
-![alt text](image.png)
+![Turn-Right-Quikly](img/turning-right-after-fall.png)
+
+Once you slide down, **quickly take the first right**—there’s no way to continue straight ahead.
+
+![Crouch-On-Left-Door](img/crouch-tunnel-left.png)
+
+As you follow the path, you’ll come across a** half-open door to you left**, before the end of the conveyor belt—**crouch under it and keep running.**
+
